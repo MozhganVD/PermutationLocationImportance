@@ -18,6 +18,6 @@ To use this script, follow the steps below:
 - `--top_k`: Number of top frequent itemsets to consider (default: `10`).
 - `--min_support`: Minimum support for frequent itemset mining (default: `0.5`).
 
-- ## Results
+## Results
 
 The script outputs CSV files containing location permutation importance scores and generates plots depicting the results. The generated files are named based on the input dataset.
