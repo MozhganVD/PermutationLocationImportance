@@ -1,6 +1,6 @@
 # Permutation Activities Location Importance
 
-Supplementary material for the article *"Uncovering the Hidden Significance of Activity Locations in Predictive Process Monitoring"*
+Supplementary material for the article *"Uncovering the Hidden Significance of Activity Locations in Predictive Process Monitoring"* by Mozhgan Vazifehdoostirani, Mohsen Abbaspour Onari, Isel Grau, Laura Genga, and Remco Dijkman
 
 ## Getting Started
 
